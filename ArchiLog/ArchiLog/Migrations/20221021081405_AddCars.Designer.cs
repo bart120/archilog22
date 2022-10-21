@@ -4,6 +4,7 @@ using ArchiLog.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,10 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ArchiLog.Migrations
 {
     [DbContext(typeof(ArchiLogDbContext))]
-    partial class ArchiLogDbContextModelSnapshot : ModelSnapshot
+    [Migration("20221021081405_AddCars")]
+    partial class AddCars
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -43,7 +45,7 @@ namespace ArchiLog.Migrations
 
                     b.HasKey("ID");
 
-                    b.ToTable("Brands", (string)null);
+                    b.ToTable("Brands");
                 });
 
             modelBuilder.Entity("ArchiLog.Models.Car", b =>
@@ -69,7 +71,7 @@ namespace ArchiLog.Migrations
 
                     b.HasIndex("BrandID");
 
-                    b.ToTable("Cars", (string)null);
+                    b.ToTable("Cars");
                 });
 
             modelBuilder.Entity("ArchiLog.Models.Car", b =>
