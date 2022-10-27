@@ -145,16 +145,16 @@ Les groupes sont les suivants:
 - CHEONG David / MEGBLETO Carnel / 
 
 Les horaires de passage des groupes sont les suivants:
-- 10h15 =>
-- 10h45 =>
-- 11h15 =>
-- 11h45 =>
-- 12h15 =>
-- 12h45 =>
-- 14h15 => 
-- 14h45 => 
-- 15h15 => 
-- 15h45 => 
+- 10h15 => Clément WALSH DE SERRANT / Clément DUFOUR LAMARTINIE / Faouizi MZEBLA / Marvin GOMES VITORINO
+- 10h45 => EGRO Kejsi / LEHNA Ryme / SORIANO Precious / DANG Ngoc Ha Lan
+- 11h15 => LECORNET Killian / CRESPO Matthias / MAGNANT Léo / SEVAULT Lucas
+- 11h45 => GEORGES Elodie / AMRAOUI Zakaria / GAPASIN Marc / SEMERDJIAN Haig
+- 12h15 => PELENIO Dj Everson / DHOUIB Mohamed Ali / MANGANO Luka / KOMGUEM Lionel
+- 12h45 => CISSE Djibril / JANKOWSKI Thomas / LARABI Abdelghani / MARCHAO Hugo
+- 14h15 => BOURAS Nadia / BEN FRAJ Fairouz / ARHAB Koceila / OUERDANE Yanis
+- 14h45 => JAAFAR Amir / MASSÉ Jérémy / OLIVRIE Aubin / PEYROT Ryan
+- 15h15 => AYACHE Salim / KUETE JIOTSA Charlot Junior / MBABOU Romario Ulrich
+- 15h45 => CHEONG David / MEGBLETO Carnel /
 
 
 Pour ceux dont le groupe n'est pas dans la liste, contactez-moi très rapidement à vincent.leclerc@ynov.com
