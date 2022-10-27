@@ -142,7 +142,7 @@ Les groupes sont les suivants:
 - AYACHE Salim / KUETE JIOTSA Charlot Junior / MBABOU Romario Ulrich
 - JAAFAR Amir / MASSÉ Jérémy / OLIVRIE Aubin / PEYROT Ryan
 - PELENIO Dj Everson / DHOUIB Mohamed Ali / MANGANO Luka / KOMGUEM Lionel
--
+- CHEONG David / MEGBLETO Carnel / 
 
 Les horaires de passage des groupes sont les suivants:
 - 10h15 =>
