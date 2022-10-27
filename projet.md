@@ -91,7 +91,7 @@ Vous devrez réaliser la doc de l'API avec SwaggerUI [aide](https://swagger.io/s
 
 [aide 2](https://docs.microsoft.com/fr-fr/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-3.1&tabs=visual-studio)
 
-## Authentification
+## Authentification (bonus: 3 points)
 
 Vous devez implétementer une authentification OAuth2/OpenID dans votre librairie via un token JWT afin que le dévellopeur choisisse ou non de l'activer sur l'API.
 
