@@ -133,15 +133,15 @@ Pour tout autre type de fichier, veuillez demander à l'enseignant si son inclus
 La soutenance dure 20 minutes durant lesquelles les membres présentent leur travail. Un échange de questions peut se faire entre le professeur et les membres du groupe.
 
 Les groupes sont les suivants:
+- Clément WALSH DE SERRANT / Clément DUFOUR LAMARTINIE / Faouizi MZEBLA / Marvin GOMES VITORINO
+- LECORNET Killian / CRESPO Matthias / MAGNANT Léo / SEVAULT Lucas
+- BOURAS Nadia / BEN FRAJ Fairouz / ARHAB Koceila / OUERDANE Yanis
+- CISSE Djibril / JANKOWSKI Thomas / LARABI Abdelghani / MARCHAO Hugo
+- GEORGES Elodie / AMRAOUI Zakaria / GAPASIN Marc / SEMERDJIAN Haig
+- EGRO Kejsi / LEHNA Ryme / SORIANO Precious / DANG Ngoc Ha Lan
+- AYACHE Salim / KIETE JIOTSA Charlot Junior / MBABOU Romario Ulrich
+- JAAFAR Amir / MASSÉ Jérémy / OLIVRIE Aubin / PEYROT Ryan
 - 
-- 
-- 
-- 
-- 
-- 
--
--
--
 -
 
 Les horaires de passage des groupes sont les suivants:
