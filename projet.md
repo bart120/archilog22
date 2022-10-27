@@ -133,7 +133,7 @@ Pour tout autre type de fichier, veuillez demander à l'enseignant si son inclus
 La soutenance dure 20 minutes durant lesquelles les membres présentent leur travail. Un échange de questions peut se faire entre le professeur et les membres du groupe.
 
 Les groupes sont les suivants:
-- 
+- Clément WALSH DE SERRANT / Clément DUFOUR LAMARTINIE / Faouizi MZEBLA / Marvin GOMES VITORINO
 - 
 - 
 - 
@@ -145,7 +145,7 @@ Les groupes sont les suivants:
 -
 
 Les horaires de passage des groupes sont les suivants:
-- 10h15 =>
+- 10h15 => Clément WALSH DE SERRANT / Clément DUFOUR LAMARTINIE / Faouizi MZEBLA / Marvin GOMES VITORINO
 - 10h45 =>
 - 11h15 =>
 - 11h45 =>
