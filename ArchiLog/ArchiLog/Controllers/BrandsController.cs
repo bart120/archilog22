@@ -17,16 +17,16 @@ namespace ArchiLog.Controllers
         }
 
         [HttpGet]
-        public async Task<IEnumerable<Brand>?> GetAll()
+        public async Task<IEnumerable<Brand>> GetAll()
         {
-            return await _context.Brands.ToListAsync();
+            return await _context.Brands.Where(x => x.Active).ToListAsync();
         }
 
         [HttpGet("{id}")]// /api/brands/3
         public async Task<ActionResult<Brand>> GetById([FromRoute]int id)
         {
            var item = await _context.Brands.SingleOrDefaultAsync(x => x.ID == id);
-            if (item == null)
+            if (item == null || !item.Active)
                 return NotFound();
             return item;
         }
