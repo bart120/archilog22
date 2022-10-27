@@ -139,9 +139,9 @@ Les groupes sont les suivants:
 - CISSE Djibril / JANKOWSKI Thomas / LARABI Abdelghani / MARCHAO Hugo
 - GEORGES Elodie / AMRAOUI Zakaria / GAPASIN Marc / SEMERDJIAN Haig
 - EGRO Kejsi / LEHNA Ryme / SORIANO Precious / DANG Ngoc Ha Lan
-- AYACHE Salim / KIETE JIOTSA Charlot Junior / MBABOU Romario Ulrich
+- AYACHE Salim / KUETE JIOTSA Charlot Junior / MBABOU Romario Ulrich
 - JAAFAR Amir / MASSÉ Jérémy / OLIVRIE Aubin / PEYROT Ryan
-- 
+- PELENIO Dj Everson / DHOUIB Mohamed Ali / MANGANO Luka / KOMGUEM Lionel
 -
 
 Les horaires de passage des groupes sont les suivants:
