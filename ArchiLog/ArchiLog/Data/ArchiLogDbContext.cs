@@ -28,7 +28,7 @@ namespace ArchiLog.Data
                 {
                     model.Active = false;
                     model.DeletedAt = DateTime.Now;
-                    item.State = EntityState.Modified
+                    item.State = EntityState.Modified;
                 }
             }
         }
@@ -41,6 +41,7 @@ namespace ArchiLog.Data
                 if (item.Entity is BaseModel model)
                 {
                     model.Active = true;
+                    model.CreatedAt = DateTime.Now;
                 }
             }
         }
