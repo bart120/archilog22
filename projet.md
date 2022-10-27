@@ -105,7 +105,7 @@ L'intégration continue devra gérer le process complet du Git au déploiement d
 
 # Groupes et fonctionnement
 
-Le projet est a développé en groupe de 2 ou 3 personnes.
+Le projet est a développé en groupe de 4 personnes.
 Tous les groupes seront définis en cours, sous la supervision de l'enseignant. Les groupes s'enregistrent avec un nom de groupe ainsi que les noms de leurs membres.
 
 Toute inscription est définitive.  Les étudiants ne sont pas autorisés, par la suite, à changer de groupe.
