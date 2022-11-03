@@ -1,5 +1,6 @@
 ﻿using ArchiLibrary.Data;
 using ArchiLibrary.Models;
+using ArchiLibrary.Extensions;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -21,9 +22,13 @@ namespace ArchiLibrary.controllers
         }
 
         [HttpGet]
-        public async Task<IEnumerable<TModel>> GetAll()
+        public async Task<IEnumerable<TModel>> GetAll([FromQuery] Params param)
         {
-            return await _context.Set<TModel>().Where(x => x.Active).ToListAsync();
+            //return await QueryExtensions.Sort(_context.Set<TModel>().Where(x => x.Active), param).ToListAsync();
+            return await _context.Set<TModel>().Where(x => x.Active).Sort(param).ToListAsync();
+
+
+            //return await _context.Set<TModel>().Where(x => x.Active).OrderBy(x => x.CreatedAt).ThenBy(x => x.ID).ToListAsync();
         }
 
         [HttpGet("{id}")]// /api/{item}/3
