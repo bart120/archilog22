@@ -26,8 +26,6 @@ namespace ArchiLibrary.controllers
         {
             //return await QueryExtensions.Sort(_context.Set<TModel>().Where(x => x.Active), param).ToListAsync();
             return await _context.Set<TModel>().Where(x => x.Active).Sort(param).ToListAsync();
-
-
             //return await _context.Set<TModel>().Where(x => x.Active).OrderBy(x => x.CreatedAt).ThenBy(x => x.ID).ToListAsync();
         }
 
