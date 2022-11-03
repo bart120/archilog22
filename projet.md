@@ -154,7 +154,7 @@ Les horaires de passage des groupes sont les suivants:
 - 14h15 => BOURAS Nadia / BEN FRAJ Fairouz / ARHAB Koceila / OUERDANE Yanis
 - 14h45 => JAAFAR Amir / MASSÉ Jérémy / OLIVRIE Aubin / PEYROT Ryan
 - 15h15 => AYACHE Salim / KUETE JIOTSA Charlot Junior / MBABOU Romario Ulrich
-- 15h45 => CHEONG David / MEGBLETO Carnel /
+- 15h45 => CHEONG David / MEGBLETO Carnel / BELMADKOUR Oumaima / SABBATORSI Enzo
 
 
 Pour ceux dont le groupe n'est pas dans la liste, contactez-moi très rapidement à vincent.leclerc@ynov.com
